@@ -16,7 +16,7 @@ Prerequisites:-
 -Django Rest Framework 3.1 or higher
 
 Installation:-
--Clone the repository-> git clone <>
+-Clone the repository-> git clone <https://github.com/Sam-1806/TODOlist.git>
 -Create a virtual environment:
      python3 -m venv env
 -Activate the virtual environment:
