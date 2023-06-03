@@ -1,0 +1,10 @@
+Django: The core framework for building web applications in Python.
+djangorestframework: Django REST Framework, which provides tools and libraries for building RESTful APIs.
+django-cors-headers: A package for handling Cross-Origin Resource Sharing (CORS) headers in Django.
+psycopg2: If you're using PostgreSQL as your database, you'll need this package for database connectivity.
+django-filter: A package for adding filtering capabilities to your API views.
+django-rest-auth: If you need authentication and registration functionality for your REST API, this package can be useful.
+djangorestframework-jwt: A package for using JSON Web Tokens (JWT) for authentication in Django REST Framework.
+django-extensions: A package that provides various useful extensions and commands for Django development.
+requests: A package for making HTTP requests from Python, useful for testing APIs.
+django-environ: A package for managing environment variables in Django projects.
